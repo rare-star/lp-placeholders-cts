@@ -1,9 +1,4 @@
-# Fabric Example Mod
-
-## Setup
-
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+# lp-placeholders-cts
+Placeholders for LuckPerms made to work with Combat Test 8c
+## Build from Source
+`./gradlew build` or `gradlew.bat build`, mod will be located in build/libs
