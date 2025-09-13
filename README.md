@@ -1,3 +1,5 @@
+# Discontinued!!!
+Use [CombatAdvanced/placeholders](https://github.com/CombatAdvanced/placeholders)
 # lp-placeholders-cts
 Placeholders for LuckPerms made to work with Combat Test 8c
 ## Build from Source
